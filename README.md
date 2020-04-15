@@ -3,14 +3,14 @@
 Research project task as a data engineer at Pewlett Hackard regarding employees of the corporation from the 1980s and 1990s. 
 The database of these employees from that period are within six CSV files.
 
-** Objectives of the Research Project is to illustrate **
+**Objectives of the Research Project is to illustrate**
 1. Data Modeling
 
 2. Data Engineering
 
 3. Data Analysis
 
-**The summary report will include the following below: **
+**The summary report will include the following below:**
 - Entity Relationship(ER) Model of the employee database
 
 - Table schema of the employee database
