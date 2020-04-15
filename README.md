@@ -30,7 +30,7 @@ The database of these employees from that period are within six CSV files.
 
 	7. List of all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
-	8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name. 
+	8. In descending order, list of the frequency count of employee last names, i.e., how many employees share each last name. 
 
 - Histogram to visualize the most common salary ranges for employees
 
