@@ -33,7 +33,7 @@ The database of these employees from that period are within six CSV files.
 	8. In descending order, list of the frequency count of employee last names, i.e., how many employees share each last name. 
 
 - Histogram to visualize the most common salary ranges for employees
-	![1.png](Desktop/histogram.png)
+	![1.png](sql-challenge/histogram.png)
 
 - Bar chart of average salary by title
-	![2.png](Desktop/barchart.png)
+	![2.png](sql-challenge/barchart.png)
