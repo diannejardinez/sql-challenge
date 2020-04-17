@@ -1,9 +1,8 @@
 # Enter your Database Connection information below
-
 # Remember to delete sensitive information after using
 
 
-Username = "ENTER YOUR USERNAME"
+username = "ENTER YOUR USERNAME"
 
 password = "ENTER YOUR PASSWORD"
 
