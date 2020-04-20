@@ -50,6 +50,8 @@ The database of these employees from that period are within six CSV files.
 
 ![](https://github.com/diannejardinez/sql-challenge/blob/master/salary_data_output/Salary%20Range%20for%20Staff.png)
 
+![](https://github.com/diannejardinez/sql-challenge/blob/master/salary_data_output/Ave%20Salary%20Range%20for%20Employees.png)
+
 
 - Bar chart of average salary by title
 
