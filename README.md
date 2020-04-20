@@ -36,5 +36,21 @@ The database of these employees from that period are within six CSV files.
 
 - Histogram to visualize the most common salary ranges by title and by all employees
 
+![](https://github.com/diannejardinez/sql-challenge/blob/master/salary_data_output/Salary%20Range%20for%20Senior%20Engineer.png)
+
+![](https://github.com/diannejardinez/sql-challenge/blob/master/salary_data_output/Salary%20Range%20for%20Assistant%20Engineer.png)
+
+![](https://github.com/diannejardinez/sql-challenge/blob/master/salary_data_output/Salary%20Range%20for%20Engineer.png)
+
+![](https://github.com/diannejardinez/sql-challenge/blob/master/salary_data_output/Salary%20Range%20for%20Manager.png)
+
+![](https://github.com/diannejardinez/sql-challenge/blob/master/salary_data_output/Salary%20Range%20for%20Technique%20Leader.png)
+
+![](https://github.com/diannejardinez/sql-challenge/blob/master/salary_data_output/Salary%20Range%20for%20Senior%20Staff.png)
+
+![](https://github.com/diannejardinez/sql-challenge/blob/master/salary_data_output/Salary%20Range%20for%20Staff.png)
+
 
 - Bar chart of average salary by title
+
+![](https://github.com/diannejardinez/sql-challenge/blob/master/salary_data_output/Ave%20Employee%20Salary%20per%20position.png)
