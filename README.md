@@ -36,4 +36,4 @@ The database of these employees from that period are within six CSV files.
 
 
 - Bar chart of average salary by title
-![](salary_data_output/Ave Employee Salary per position.png)
+![salary_data_output/Ave Employee Salary per position.png]
