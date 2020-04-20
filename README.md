@@ -13,7 +13,7 @@ The database of these employees from that period are within six CSV files.
 **The summary report will include the following below:**
 - Entity Relationship(ER) Model of the employee database
 
-![](../sql-challenge/employee_database_ERD.png)
+![](https://github.com/diannejardinez/sql-challenge/blob/master/employee_database_ERD.png)
 
 - Table schema of the employee database
 
